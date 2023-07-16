@@ -5,4 +5,5 @@ int main() {
   int b = 3;
   int c = 8;
   return 0;
+  int d = 6;
 }
